@@ -1,7 +1,7 @@
 {
-  "name": "learning-git-2",
+  "name": "zadanie11.4",
   "version": "1.0.0",
-  "description": "https://katarzynaprojekty.github.io/learning-git-2/",
+  "description": "https://katarzynaprojekty.github.io/zadanie11.4/",
   "main": "index.js",
   "scripts": {
     "test": "npm-run-all test:*",
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katarzynaprojekty/learning-git-2.git"
+    "url": "git+https://github.com/katarzynaprojekty/zadanie11.4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katarzynaprojekty/learning-git-2/issues"
+    "url": "https://github.com/katarzynaprojekty/zadanie11.4/issues"
   },
-  "homepage": "https://github.com/katarzynaprojekty/learning-git-2#readme",
+  "homepage": "https://github.com/katarzynaprojekty/zadanie11.4#readme",
   "dependencies": {
     "browser-sync": "^2.23.7",
     "npm-run-all": "^4.1.2"
